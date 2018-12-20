@@ -1,2 +1,0 @@
-post
-http://jinchangyu.jinchanzaoxing.com/index/login/login --data "phone=13467338475&password=123"
